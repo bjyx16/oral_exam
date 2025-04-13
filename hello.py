@@ -1,1 +1,2 @@
-print("This is common code")
+x = 5
+print(x+4)
